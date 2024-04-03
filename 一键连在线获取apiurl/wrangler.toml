@@ -1,0 +1,6 @@
+account_id = ""
+name = "easyconnect-apiurl"
+type = "webpack"
+workers_dev = true
+compatibility_date = "2024-02-02"
+site = { bucket = "./public" }
